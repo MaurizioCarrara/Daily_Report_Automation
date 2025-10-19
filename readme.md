@@ -1,5 +1,10 @@
 # ETL KNIME + Excel/VBA Batch Runner
 
+![Batch](https://img.shields.io/badge/Batch-Automation-green)
+![KNIME](https://img.shields.io/badge/KNIME-ETL-orange)
+![Excel](https://img.shields.io/badge/Excel-VBA-217346)
+![Status](https://img.shields.io/badge/Status-Production-success)
+
 This script demonstrates the **organizational structure of a fully automated data pipeline**.  
 Although the KNIME workflow and VBA modules are proprietary and cannot be published for know-how protection reasons, the framework showcases how to **integrate multiple technologies** with **robust error handling** and **reliable scheduling**.
 
